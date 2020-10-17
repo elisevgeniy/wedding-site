@@ -1,0 +1,21 @@
+.btn-success {
+    background-color: rgba(241, 78, 149, 0.8);
+    border-color: rgba(179, 58, 110, 0.8);
+}
+
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success:active:hover, .btn-success:active:hover, .btn-success:active:focus {
+    background-color: rgba(241, 29, 123, 0.8);
+    border-color: rgba(179, 32, 101, 0.8);
+ }
+
+a {
+    color: #ca4d83;
+}
+
+a:hover, a:focus {
+    color: #ca3175;
+}
+
+.breadcrumb > .active {
+    color: #846773;
+}
