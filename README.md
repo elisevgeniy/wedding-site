@@ -34,3 +34,60 @@ private static $users = [
     ];
 ```
 4. Профит!
+
+## Скриншоты панели управления
+
+- Настроки
+<div>
+    <a href="images/settings.png" target="_blank">
+        <img src="images/settings.png" width="30%"></img> 
+    </a>
+</div>
+
+- Альбомы
+<div>
+    <a href="images/albums.png" target="_blank">
+        <img src="images/albums.png" width="30%"></img> 
+    </a>
+    <a href="images/album.png" target="_blank">
+        <img src="images/album.png" width="30%"></img> 
+    </a>
+    <a href="images/album_edit.png" target="_blank">
+        <img src="images/album_edit.png" width="30%"></img> 
+    </a>
+    <a href="images/album_edit_photo.png" target="_blank">
+        <img src="images/album_edit_photo.png" width="30%"></img> 
+    </a>
+</div>
+
+- История отношений
+<div>
+    <a href="images/couple-story.png" target="_blank">
+        <img src="images/couple-story.png" width="30%"></img> 
+    </a>
+</div>
+
+- События (Расписание свадебного дня)
+<div>
+    <a href="images/events.png" target="_blank">
+        <img src="images/events.png" width="30%"></img> 
+    </a>
+</div>
+
+- События (Специалисты)
+<div>
+    <a href="images/service.png" target="_blank">
+        <img src="images/service.png" width="30%"></img> 
+    </a> 
+</div>
+
+- Напоминания
+<div>
+    <a href="images/notifications.png" target="_blank">
+        <img src="images/notifications.png" width="30%"></img> 
+    </a>
+    <a href="images/notification_edit.png" target="_blank">
+        <img src="images/notification_edit.png" width="30%"></img> 
+    </a>
+</div>
+
